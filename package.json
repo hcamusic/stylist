@@ -12,11 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@koa/cors": "2",
-    "axios": "^0.18.0",
     "concurrently": "^4.1.0",
     "koa": "^2.7.0",
-    "koa-proxies": "^0.8.1",
+    "koa-proxy": "^1.0.0-alpha.2",
     "nodemon": "^1.18.10",
     "parcel": "^1.12.2",
     "prettier": "^1.16.4",

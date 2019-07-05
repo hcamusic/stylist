@@ -1,3 +1,1 @@
-import './scss/hca.scss';
-
-console.log('waaaat');
+import '../scss/hca.scss';
